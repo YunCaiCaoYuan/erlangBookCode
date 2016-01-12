@@ -1,0 +1,2 @@
+# erlangBookCode
+工作中项目使用Erlang作为后台服务器语言，自己对于Erlang也非常地感兴趣，找了Erlang之父的权威著作《Erlang程序设计》来读，建立该仓库记录书中例子的代码。
